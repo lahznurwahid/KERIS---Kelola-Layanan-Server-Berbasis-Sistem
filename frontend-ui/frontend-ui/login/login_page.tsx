@@ -97,7 +97,7 @@ export default function LoginPage() {
         <img src="/img/Ellipse 5.png" alt="B5" className="img-b5" />
         <div className="left-content">
           <img src="/img/logoupn.png" alt="Logo" width={170} height={170}/>
-          <h1 className="faculty-name">FIK UPNVJ</h1>
+          <h1 className="faculty-name">UPN "VETERAN" <p> JAKARTA</p></h1>
         </div>
       </div>
 
@@ -107,7 +107,7 @@ export default function LoginPage() {
       <div className="login-right">
         <div className="login-card">
           <h2 className="login-title">Login</h2>
-          <h4 className="login-subtitle">Manajemen Pengajuan Layanan Server</h4>
+          <h4 className="login-subtitle">KERIS - Kelola Layanan Server Berbasis Sistem</h4>
 
           {error && <div className="error-message">{error}</div>}
 

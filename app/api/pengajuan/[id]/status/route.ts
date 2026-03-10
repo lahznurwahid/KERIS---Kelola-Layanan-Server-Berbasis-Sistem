@@ -9,6 +9,7 @@ const allowedStatuses = [
   "DIPERIKSA",
   "DISETUJUI",
   "DITANGGUHKAN",
+  "DITOLAK",
   "DIPROSES",
   "DISELESAIKAN",
 ] as const;
